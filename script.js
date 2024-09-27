@@ -55,20 +55,20 @@ const allSongs = [
     duration: "3:14",
     src: "songs/FAST & FURIOUS Chase Scene _ IN THE END.mp3",
   },
-  {
-    id: 7,
-    title: "Tanz Mit Mir",
-    artist: "Faun (Gingertail Cover)",
-    duration: "3:05",
-    src: "songs/Faun  Tanz mit mir Gingertail Cover.mp3",
-  },
-  {
-    id: 8,
-    title: "La Gozadera",
-    artist: "Gente de Zona ft. Marc Anthony",
-    duration: "4:00",
-    src: "songs/Gente de Zona - La Gozadera (Official Music Video) ft. Marc Anthony.mp3",
-  },
+  // {
+  //   id: 7,
+  //   title: "Tanz Mit Mir",
+  //   artist: "Faun (Gingertail Cover)",
+  //   duration: "3:05",
+  //   src: "songs/Faun  Tanz mit mir Gingertail Cover.mp3",
+  // },
+  // {
+  //   id: 8,
+  //   title: "La Gozadera",
+  //   artist: "Gente de Zona ft. Marc Anthony",
+  //   duration: "4:00",
+  //   src: "songs/Gente de Zona - La Gozadera (Official Music Video) ft. Marc Anthony.mp3",
+  // },
   {
     id: 9,
     title: "Ode To Fury (God Of War Song)",
@@ -90,13 +90,13 @@ const allSongs = [
     duration: "2:53",
     src: "songs/Lariss  Dale Papi .mp3",
   },
-  {
-    id: 12,
-    title: "J'me Tire",
-    artist: "Maître Gims",
-    duration: "4:21",
-    src: "songs/Maître Gims - J'me tire .mp3",
-  },
+  // {
+  //   id: 12,
+  //   title: "J'me Tire",
+  //   artist: "Maître Gims",
+  //   duration: "4:21",
+  //   src: "songs/Maître Gims - J'me tire .mp3",
+  // },
 
  
 ];
