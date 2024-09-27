@@ -20,13 +20,13 @@ const allSongs = [
     duration: "4:59",
     src: "songs/FLY PROJECT  So High Extended Mix .mp3",
   },
-  {
-    id: 2,
-    title: "Calabria (Dosner Remix)",
-    artist: "Enur feat. Natasja",
-    duration: "2:57",
-    src: "songs/Enur feat. Natasja - Calabria (Dosner Remix).mp3",
-  },
+  // {
+  //   id: 2,
+  //   title: "Calabria (Dosner Remix)",
+  //   artist: "Enur feat. Natasja",
+  //   duration: "2:57",
+  //   src: "songs/Enur feat. Natasja - Calabria (Dosner Remix).mp3",
+  // },
   {
     id: 3,
     title: "Cold Blood",
@@ -34,13 +34,13 @@ const allSongs = [
     duration: "4:03",
     src: "songs/DAVE NOT DAVE  Cold Blood .mp3",
   },
-  {
-    id: 4,
-    title: "Demolition",
-    artist: "Assassins Creed",
-    duration: "1:41",
-    src: "songs/Assassins Creed  Demolition.mp3",
-  },
+  // {
+  //   id: 4,
+  //   title: "Demolition",
+  //   artist: "Assassins Creed",
+  //   duration: "1:41",
+  //   src: "songs/Assassins Creed  Demolition.mp3",
+  // },
   {
     id: 5,
     title: "Bring Me To Life",
@@ -55,13 +55,13 @@ const allSongs = [
     duration: "3:14",
     src: "songs/FAST & FURIOUS Chase Scene _ IN THE END.mp3",
   },
-  // {
-  //   id: 7,
-  //   title: "Tanz Mit Mir",
-  //   artist: "Faun (Gingertail Cover)",
-  //   duration: "3:05",
-  //   src: "songs/Faun  Tanz mit mir Gingertail Cover.mp3",
-  // },
+  {
+    id: 7,
+    title: "Tanz Mit Mir",
+    artist: "Faun (Gingertail Cover)",
+    duration: "3:05",
+    src: "songs/Faun  Tanz mit mir Gingertail Cover.mp3",
+  },
   // {
   //   id: 8,
   //   title: "La Gozadera",
